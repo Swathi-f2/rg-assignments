@@ -1,0 +1,11 @@
+1)git add command is used to move our files from working directory to staging area.
+
+2)git branch feature-login
+
+3)Pull request is to merge our local changes to main branch. To create PR we need to push the changes into our local branch (first git add then git commit,then push changes) then create pull request .
+
+4) To add collaborators open GitHub repository->settings->collaborators section->add member->through emai,user name,full name->this will send invitation to that person.
+
+5)git commit -m "some useful message"
+
+6)
